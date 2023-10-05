@@ -1,0 +1,3 @@
+pip install pycaret
+
+- pycaret==3.0.4
